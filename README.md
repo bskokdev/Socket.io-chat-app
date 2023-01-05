@@ -1,5 +1,7 @@
 # A React & Node.js chat application
 
+![output chart](https://github.com/skokcmd/Socket.io-chat-app/blob/master/chat.png?raw=true)
+
 ### Used libraries:
 - socket.io - client & server
 - styled-components
